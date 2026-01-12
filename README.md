@@ -18,7 +18,6 @@
 - [Curriculum](#curriculum)
 - [Code of conduct](#code-of-conduct)
 
-
 # Summary
 
 The Political Science curriculum is a **complete education in Political Science** using online materials.
@@ -26,11 +25,6 @@ The Political Science curriculum is a **complete education in Political Science*
 Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
 they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md) or [extras/other_curricula](extras/other_curricula.md).
 
-**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
-
-- We recommend doing all courses in **Core**, only skipping a course when you are certain that you've already learned the material previously.
-- For simplicity, we recommend working through courses (especially Core) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day/week.
-- The courses in the Advanced section are electives. Choose one track to specialize in and complete all the courses listed under it.
 
 **[How to contribute](/CONTRIBUTING.html)**
 
@@ -46,84 +40,130 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
   - [Political Scientists on Mastodon List](https://brentonpeterson.github.io/Mastodon-PoliScientists/) (follow academics in the Fediverse)
   - [politicalscience.social Mastodon Instance](https://politicalscience.social/about) (dedicated server for political scientists)
 - You can also interact through [GitHub issues](https://github.com/hocbigg/political-science/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
+- Join our Discord server (for discussions around this and other curricula): 
+    
+    [![discord link](/assets/discord.png)](https://discord.gg/KHqAv4Nvm5)
 
 # Curriculum
 
-## Intro Political Science
+- [I. Foundations of Political Science](#i-foundations-of-political-science)
+    - [Core Orientation](#core-orientation)
+- [II. Political Science Methods Foundational](#ii-political-science-methods-foundational)
+- [III. Political Theory Global Foundations](#iii-political-theory-global-foundations)
+    - [Classical & Modern](#classical--modern)
+    - [Contemporary & Global](#contemporary--global)
+- [IV. Political Institutions & Comparative Politics](#iv-political-institutions--comparative-politics)
+- [V. Political Behavior & Identity](#v-political-behavior--identity)
+- [VI. International Relations & Global Politics](#vi-international-relations--global-politics)
+- [VII. Political Economy & Development](#vii-political-economy--development)
+- [VIII. Public Policy, Administration & Governance](#viii-public-policy-administration--governance)
 
-Acquire shared language, historical context, and analytic habits.
+## How to use this curriculum
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Introduction to Political Science | Establishes scope, subfields, and core questions | [*Introduction to Political Science* (Open Textbook)](https://open.umn.edu/opentextbooks/textbooks/introduction-to-political-science) | [Introduction to Comparative Politics](https://ocw.mit.edu/courses/17-50-introduction-to-comparative-politics-fall-2022/) (MIT OpenCourseWare) |
-| History of Political Thought (Overview) | Provides intellectual lineage for all later theory | [*A History of Political Thought: Plato to Marx*](https://archive.org/download/history-of-political-thoughts/History%20of%20political%20thoughts.pdf) | [Introduction to Political Philosophy](https://oyc.yale.edu/political-science/plsc-114) (Open Yale Courses) |
-| Critical Reading & Argumentation | Essential for reading dense theory and empirical work | [*Asking the Right Questions: A Guide to Critical Thinking*](https://archive.org/details/askingrightquest0000brow) | Covered in Introduction to Political Philosophy (link above) |
-| Basic Political Writing | Develops clarity, structure, and citation norms | [*Writing in Political Science: A Practical Guide*](https://www.amazon.com/Writing-Political-Science-Practical-Guide/dp/0205617360) |  |
+### Core Sections
 
-## Core Political Science
+Study them *in this exact order* before moving to any specialization:
 
-### Political Theory & Institutions
+**I. Foundations of Political Science**: Start here. This section teaches you how to think, read, and write like a political scientist.
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Classical Political Theory | Foundations of political authority and justice | [*History of Political Philosophy*](https://www.amazon.com/History-Political-Philosophy-Leo-Strauss/dp/0226777103) | Covered in [Introduction to Political Philosophy](https://oyc.yale.edu/political-science/plsc-114) (Open Yale Courses) |
-| Modern Political Theory | Core ideologies shaping modern states | [*Modern Political Thought: Readings from Machiavelli to Nietzsche*](https://archive.org/details/modernpoliticalt0000unse) | Covered in [Introduction to Political Philosophy](https://oyc.yale.edu/political-science/plsc-114) (Open Yale Courses) |
-| Political Institutions | How power is structured and constrained | [*The Oxford Handbook of Political Institutions*](https://www.amazon.com/Oxford-Handbook-Political-Institutions-Handbooks/dp/0199548463) | [Introduction to Comparative Politics](https://ocw.mit.edu/courses/17-50-introduction-to-comparative-politics-fall-2022/) (MIT OpenCourseWare) |
-| State Formation & Sovereignty | Explains origins and persistence of states | [*Coercion, Capital, and European States, AD 990-1992*](https://archive.org/details/coercioncapitale0000till) |  |
+**II. Political Science Methods (Foundational)**: Next, learn the basic tools researchers use to study politics seriously (both qualitative and quantitative).
 
-### Comparative Politics & Political Behavior
+**III. Political Theory (Global Foundations)**: Then build your understanding of the big ideas that have shaped political thinking across time and places.
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Comparative Politics | Systematic cross-national comparison | [*Essentials of Comparative Politics*](https://archive.org/details/essentialsofcomp0000onei) | [Introduction to Comparative Politics](https://ocw.mit.edu/courses/17-50-introduction-to-comparative-politics-fall-2022/) (MIT OpenCourseWare) |
-| Political Regimes & Democratization | Democracy vs authoritarianism | [*Democracy and Development*](https://eml.berkeley.edu/~webfac/bardhan/papers/BardhanDemoc.pdf) | Covered in Introduction to Comparative Politics (link above) |
-| Political Behavior | Voting, participation, ideology | [*The American Voter*](https://ia802906.us.archive.org/0/items/in.ernet.dli.2015.110835/2015.110835.The-American-Voter_text.pdf) |  |
-| Identity & Nationalism | Nationalism and collective identity | [*Imagined Communities*](https://archive.org/details/imaginedcommunit0000ande) |  |
+**IV. Political Institutions & Comparative Politics**: Finish the core by learning how political systems are actually organized and how they differ across countries.
 
-### International Relations & Public Policy
+### Specialization Tracks
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| International Relations Theory | Explains war, cooperation, order | [*Theory of International Politics*](https://www.amazon.com/Theory-International-Politics-Kenneth-Waltz/dp/1577666704) | [International Relations](https://alison.com/course/international-relations) (Alison) |
-| Global Political Economy | Markets, power, globalization | [*Global Political Economy*](https://www.amazon.com/Global-Political-Economy-Evolution-International/dp/019882064X) |  |
-| Public Policy Analysis | Applying political reasoning to policy | [*Public Policy: Politics, Analysis, and Alternatives*](https://www.amazon.com/Public-Policy-Politics-Analysis-Alternatives/dp/1544374615) |  |
-| Public Administration | Implementation and bureaucracy | [*Public Administration: Concepts and Cases*](https://archive.org/details/publicadministra0000unse_y2z7) |  |
+You do **not** need to study all of them. You can study **one track** deeply, **several tracks** at a lighter level, or even return later to explore more. There is no required order among the specialization tracks—choose based on your curiosity.
 
-## Advanced Political Science
+The specialization tracks are:
 
-### Political Theory & Philosophy
+- **V. Political Behavior & Identity**: how ordinary people think, vote, and form political identities.
+- **VI. International Relations & Global Politics**: war, peace, diplomacy, global power, and relations between countries.
+- **VII. Political Economy & Development**: money, markets, inequality, why some countries grow rich while others stay poor. 
+- **VIII. Public Policy, Administration & Governance**: how governments actually make and implement decisions, laws, regulations, and city policies
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Normative Political Theory | Justice, rights, equality | [*A Theory of Justice*](https://archive.org/details/theoryofjustice0000rawl) | [Moral Foundations of Politics](https://www.coursera.org/learn/moral-politics) |
-| Power & Ideology | Structural and discursive power | [*Power: A Radical View*](https://www.amazon.com/Power-Radical-View-Lukes/dp/0333420926) |  |
-| Contemporary Political Theory | Modern critiques and syntheses | [*Contemporary Political Theory*](https://igntu.ac.in/eContent/MA-PoliticalScience-RCM-02Sem-Dr.%20George%20T.%20Haokip-Contemporary%20Political%20Theory.pdf) | Covered in Moral Foundations of Politics (link above) |
-| Political Ethics | Moral reasoning in politics | [*Political Ethics and Public Office*](https://archive.org/details/politicalethicsp0000thom) |  |
 
-### Comparative Politics & Development
+## I. Foundations of Political Science
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Development & State Capacity | Explains growth and failure | [*Why Nations Fail*](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719227) |  |
-| Authoritarianism | Understanding non-democratic rule | [*The Politics of Authoritarian Rule*](https://www.amazon.com/Politics-Authoritarian-Rule-Cambridge-Comparative/dp/1107607450) |  |
-| Electoral Systems | Institutions and outcomes | [*Patterns of Democracy*](https://archive.org/details/patternsofdemocr0000lijp) | Covered in Introduction to Comparative Politics (MIT link above) |
+### Core Orientation
 
-### International Relations & Security
+| Subject | Book | Online Course |
+| --- | --- | --- |
+| Introduction to Political Science | [Introduction to Political Science (Open Textbook, UMN)](https://open.umn.edu/opentextbooks/textbooks/1179) | [MIT OCW – Introduction to Comparative Politics](https://ocw.mit.edu/courses/17-50-introduction-to-comparative-politics-fall-2022/) |
+| Key Concepts & Vocabulary | Same as above | Same as above |
+| Critical Reading & Argumentation | [Asking the Right Questions (Archive.org)](https://archive.org/details/askingrightquest00brow) | [Yale PLSC 114 (methods segments)](https://oyc.yale.edu/political-science/plsc-114) (see full lectures for relevant segments) |
+| Political Writing & Citation | [Writing in Political Science (Amazon)](https://www.amazon.com/Writing-Political-Science-Andrea-Herrnson/dp/0205617360) | — |
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Security Studies | War, deterrence, conflict | [*The Evolution of Nuclear Strategy*](https://archive.org/details/evolutionofnucle0000free) | Covered in [International Relations](https://alison.com/course/international-relations) (Alison) |
-| International Law | Legal structure of world politics | [*International Law*](https://archive.org/details/internationallaw0000shaw) |  |
-| Foreign Policy Analysis | Decision-making processes | [*Foreign Policy Analysis*](https://www.amazon.com/Foreign-Policy-Analysis-Classic-Contemporary/dp/1442277904) |  |
-| Global Ethics | Moral issues beyond borders | [*Global Justice*](https://archive.org/details/globaljustice0000unse) |  |
+## II. Political Science Methods (Foundational)
 
-### Public Policy & Governance
+| Subject | Book | Online Course |
+| --- | --- | --- |
+| Research Design & Causality | [The Fundamentals of Political Science Research (Archive.org)](https://archive.org/details/fundamentalsofpo0000kell_e7y9) | — |
+| Qualitative Methods | [Case Studies and Theory Development (Archive.org)](https://archive.org/details/casestudiestheor0000geor) | — |
+| Quantitative Literacy | [OpenIntro Statistics (free official site)](https://www.openintro.org/book/os/) | — |
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Policy Design & Evaluation | Evidence-based governance | [*Policy Analysis: Concepts and Practice*](https://archive.org/details/policyanalysisco0000weim) |  |
-| Regulatory Politics | State–market relations | [*The Politics of Regulation*](https://archive.org/details/politicsofregula0000wils) |  |
-| Urban Governance | Politics below the state | [*Governing Cities*](https://www.amazon.com/Governing-Cities-Transforming-Urban-World/dp/113881400X) |  |
+## III. Political Theory (Global Foundations)
+
+### Classical & Modern
+
+| Subject | Book | Online Course |
+| --- | --- | --- |
+| Classical Political Theory | [History of Political Thought: Plato to Marx (PDF)](https://archive.org/details/history-of-political-thoughts/History%20of%20political%20thoughts.pdf) | [Yale PLSC 114](https://oyc.yale.edu/political-science/plsc-114) |
+| Modern Political Thought | [Modern Political Thought (Archive.org)](https://archive.org/details/historyofmodernp0000hamp) | [Yale PLSC 114](https://oyc.yale.edu/political-science/plsc-114) |
+
+### Contemporary & Global
+
+| Subject | Book | Online Course |
+| --- | --- | --- |
+| Contemporary Political Theory | [Contemporary Political Theory (PDF)](https://archive.org/details/history-of-political-thoughts/History%20of%20political%20thoughts.pdf) (relevant sections in broader history) | [Coursera – Moral Foundations of Politics](https://www.coursera.org/learn/moral-politics) |
+| Power & Ideology | [Lukes – Power: A Radical View (Archive.org)](https://archive.org/details/powerradicalview00luke) | — |
+| Global & Non-Western Thought | [Internet Encyclopedia of Philosophy (Political Philosophy sections)](https://iep.utm.edu/polphil/) | — |
+
+## IV. Political Institutions & Comparative Politics
+
+| Subject | Book | Online Course |
+| --- | --- | --- |
+| Comparative Politics | [Principles of Comparative Politics (Archive.org)](https://archive.org/details/principlesofcomp0000clar_03ed) | [MIT OCW – Intro to Comparative Politics](https://ocw.mit.edu/courses/17-50-introduction-to-comparative-politics-fall-2022/) |
+| State Formation | [Tilly – Coercion, Capital, and European States (Archive.org)](https://archive.org/details/coercioncapitale0000till) | — |
+| Regimes & Democratization | [Przeworski et al. – Democracy and Development (PDF)](https://www.cambridge.org/core/books/democracy-and-development/) | [MIT OCW](https://ocw.mit.edu/courses/17-50-introduction-to-comparative-politics-fall-2022/) |
+| Electoral Systems | [Lijphart – Patterns of Democracy](https://www.cambridge.org/core/books/patterns-of-democracy/) | [MIT OCW](https://ocw.mit.edu/courses/17-50-introduction-to-comparative-politics-fall-2022/) |
+
+## V. Political Behavior & Identity
+
+| Subject | Book | Online Course |
+| --- | --- | --- |
+| Political Behavior | [Dalton – Citizen Politics (Archive.org)](https://archive.org/details/citizenpoliticsg0000dalt) | — |
+| Nationalism | [Anderson – Imagined Communities](https://www.versobooks.com/products/112-imagined-communities) | — |
+| Identity Politics | [IEP – Identity & Politics entries](https://iep.utm.edu/category/value/political/) | — |
+
+## VI. International Relations & Global Politics
+
+| Subject | Book | Online Course |
+| --- | --- | --- |
+| International Relations (Intro) | — | [MIT OCW – Introduction to International Relations](https://ocw.mit.edu/courses/17-40-introduction-to-international-relations-fall-2017/) (closest match; search for full IR intro) |
+| IR Theory (Advanced) | [Waltz – Theory of International Politics](https://www.waveland.com/browse.php?t=380) | — |
+| Security Studies | [Freedman – Evolution of Nuclear Strategy](https://link.springer.com/book/9781137573490) | — |
+| International Law | [Shaw – International Law (Archive.org)](https://archive.org/details/internationallaw0000shaw) | — |
+| Foreign Policy Analysis | [Hudson – Foreign Policy Analysis](https://global.oup.com/academic/product/foreign-policy-analysis-9780197518908) | — |
+| Global Ethics | [Global Justice (Archive.org)](https://archive.org/details/globaljustice0000unse) | — |
+
+## VII. Political Economy & Development
+
+| Subject | Book | Online Course |
+| --- | --- | --- |
+| Global Political Economy | [Global Political Economy (Oxford)](https://global.oup.com/academic/product/global-political-economy-9780198820642) | — |
+| Development & State Capacity | [Why Nations Fail](https://whynationsfail.com/) (official site with excerpts) | — |
+| Authoritarian Politics | [The Politics of Authoritarian Rule](https://www.cambridge.org/core/books/politics-of-authoritarian-rule/) (limited preview) | — |
+
+## VIII. Public Policy, Administration & Governance
+
+| Subject | Book | Online Course |
+| --- | --- | --- |
+| Public Policy Analysis | [Weimer & Vining – Policy Analysis](https://www.routledge.com/Policy-Analysis-Concepts-and-Practice/Weimer-Vining/p/book/9781138216518) | [LSE Public Policy Lectures (free)](https://www.lse.ac.uk/public-policy) (search for open lectures) |
+| Public Administration | [Public Administration: Concepts and Cases](https://www.cengage.com/c/public-administration-concepts-and-cases-9e-stillman/9780618999019) | — |
+| Regulatory Politics | [Wilson – Politics of Regulation](https://www.basicbooks.com/titles/james-q-wilson/politics-of-regulation/9780465061686/) | — |
+| Urban Governance | [Governing Cities](https://www.wiley.com/en-us/Governing+Cities-p-9781118567302) | — |
 
 ## Congratulations
 
