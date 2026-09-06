@@ -55,10 +55,10 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
 
 - [Foundations of Political Science](#foundations-of-political-science)
     - [Core Orientation](#core-orientation)
-- [Political Theory Global Foundations](#political-theory-global-foundations)
+- [Political Theory (Global Foundations)](#political-theory-global-foundations)
     - [Classical & Modern](#classical--modern)
     - [Contemporary & Global](#contemporary--global)
-- [Political Science Methods Foundational](#political-science-methods-foundational)
+- [Political Science Methods (Foundational)](#political-science-methods-foundational)
 - [Comparative Politics & Political Institutions](#comparative-politics--political-institutions)
 - [American Politics](#american-politics)
 - [International Relations](#international-relations)
@@ -72,9 +72,9 @@ Study them *in this order* before moving to [Advanced Topics](advanced_topics.md
 | Subject | Book | Online Course |
 | --- | --- | --- |
 | Introduction to Political Science | [Introduction to Political Science (OpenStax)](https://openstax.org/details/books/introduction-political-science) | [MIT OCW – Introduction to Comparative Politics](https://ocw.mit.edu/courses/17-50-introduction-to-comparative-politics-fall-2022/) |
-| Key Concepts & Vocabulary | Same as above | Same as above |
-| Critical Reading & Argumentation | [Asking the Right Questions](https://archive.org/details/askingrightquest00brow) | [Yale PLSC 114 (relevant segments)](https://oyc.yale.edu/political-science/plsc-114) |
-| Political Writing & Citation | [Writing in Political Science (Herrnson)](https://www.amazon.com/Writing-Political-Science-Andrea-Herrnson/dp/0205617360) | — |
+| Key Concepts & Vocabulary | Key Concepts in Politics and International Relations (Heywood, Palgrave) | — |
+| Critical Reading & Argumentation | Thinking Like a Political Scientist: A Practical Guide to Research in Social Science (Howard, Chicago) | — |
+| Political Writing & Citation | Writing a Research Paper in Political Science: A Practical Guide to Inquiry, Structure, and Methods (Baglione, CQ Press) | — |
 
 ## Political Theory (Global Foundations)
 
@@ -82,43 +82,43 @@ Study them *in this order* before moving to [Advanced Topics](advanced_topics.md
 
 | Subject | Book | Online Course |
 | --- | --- | --- |
-| Classical & Modern Political Theory | [An Introduction to Political Philosophy (Wolff)](https://global.oup.com/academic/product/an-introduction-to-political-philosophy-9780199658015) | [Yale PLSC 114](https://oyc.yale.edu/political-science/plsc-114) |
+| Classical & Modern Political Theory | [An Introduction to Political Philosophy (Wolff)](https://global.oup.com/academic/product/an-introduction-to-political-philosophy-9780199658015) | [Yale PLSC 114 – Introduction to Political Philosophy](https://oyc.yale.edu/political-science/plsc-114) |
 
 ### Contemporary & Global
 
 | Subject | Book | Online Course |
 | --- | --- | --- |
-| Contemporary Political Theory | — | [Coursera – Moral Foundations of Politics](https://www.coursera.org/learn/moral-politics) / [Justice (Sandel, Harvard)](https://justiceharvard.org/) |
-| Power & Ideology | [Power: A Radical View (Lukes)](https://archive.org/details/powerradicalview00luke) | — |
-| Global & Non-Western Thought | [Internet Encyclopedia of Philosophy – Political Philosophy](https://iep.utm.edu/polphil/) | — |
+| Contemporary Political Theory | Contemporary Political Philosophy: An Introduction (Kymlicka, Oxford) | [Yale PLSC 118 – The Moral Foundations of Politics](https://oyc.yale.edu/political-science/plsc-118) / [Coursera – Moral Foundations of Politics](https://www.coursera.org/learn/moral-politics) / [Justice (Sandel, Harvard)](https://justiceharvard.org/) |
+| Power & Ideology | [Power: A Radical View (Lukes)](https://archive.org/details/powerradicalview00luke) / Political Ideologies: An Introduction (Heywood, Palgrave) | — |
+| Global & Non-Western Thought | Comparative Political Theory: An Introduction (Dallmayr, Palgrave) | — |
 
 ## Political Science Methods (Foundational)
 
 | Subject | Book | Online Course |
 | --- | --- | --- |
-| Research Design & Causality | [The Fundamentals of Political Science Research](https://archive.org/details/fundamentalsofpo0000kell_e7y9) | — |
-| Qualitative Methods | [Case Studies and Theory Development](https://archive.org/details/casestudiestheor0000geor) | — |
-| Quantitative Literacy & Basic Statistics | [OpenIntro Statistics](https://www.openintro.org/book/os/) | — |
+| Research Design & Causality | [The Fundamentals of Political Science Research (Kellstedt & Whitten)](https://archive.org/details/fundamentalsofpo0000kell_e7y9) | — |
+| Qualitative Methods | [Case Studies and Theory Development in the Social Sciences (George & Bennett)](https://archive.org/details/casestudiestheor0000geor) | — |
+| Quantitative Literacy & Basic Statistics | [OpenIntro Statistics](https://www.openintro.org/book/os/) / Quantitative Social Science: An Introduction (Imai, Princeton) | — |
 
 ## Comparative Politics & Political Institutions
 
 | Subject | Book | Online Course |
 | --- | --- | --- |
-| Comparative Politics | [Introducing Comparative Politics (Orvis & Drogus)](https://collegepublishing.sagepub.com/products/introducing-comparative-politics-6-278659) or Open textbook equivalent | [MIT OCW – Intro to Comparative Politics](https://ocw.mit.edu/courses/17-50-introduction-to-comparative-politics-fall-2022/) |
-| Regimes & Democratization | — | [MIT OCW](https://ocw.mit.edu/courses/17-50-introduction-to-comparative-politics-fall-2022/) |
-| Electoral & Institutional Differences | — | [MIT OCW](https://ocw.mit.edu/courses/17-50-introduction-to-comparative-politics-fall-2022/) |
+| Comparative Politics | Essentials of Comparative Politics (O'Neil, Norton) / Principles of Comparative Politics (Clark, Golder, & Golder, CQ Press) | [MIT OCW – Introduction to Comparative Politics](https://ocw.mit.edu/courses/17-50-introduction-to-comparative-politics-fall-2022/) |
+| Regimes & Democratization | Polyarchy: Participation and Opposition (Dahl, Yale) | [MIT OCW – Introduction to Comparative Politics](https://ocw.mit.edu/courses/17-50-introduction-to-comparative-politics-fall-2022/) |
+| Electoral & Institutional Differences | Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries (Lijphart, Yale) | [MIT OCW – Introduction to Comparative Politics](https://ocw.mit.edu/courses/17-50-introduction-to-comparative-politics-fall-2022/) |
 
 ## American Politics
 
 | Subject | Book | Online Course |
 | --- | --- | --- |
-| Introduction to American Politics | [American Government (OpenStax or standard)](https://openstax.org/details/books/american-government-3e) | [Yale PLSC 114 (American segments)](https://oyc.yale.edu/political-science/plsc-114) or MIT equivalent |
+| Introduction to American Politics | [American Government 3e (OpenStax)](https://openstax.org/details/books/american-government-3e) | [MIT OCW – Introduction to the American Political Process](https://ocw.mit.edu/courses/17-20-introduction-to-the-american-political-process-fall-2020/) |
 
 ## International Relations
 
 | Subject | Book | Online Course |
 | --- | --- | --- |
-| Introduction to International Relations | [Introduction to International Relations (standard)](https://global.oup.com/ushe/product/international-relations-9780197559642) | [MIT OCW – International Relations](https://ocw.mit.edu/courses/17-41-introduction-to-international-relations-spring-2023/) |
+| Introduction to International Relations | The Globalization of World Politics: An Introduction to International Relations (Baylis, Smith, & Owens, Oxford) | [MIT OCW – Introduction to International Relations](https://ocw.mit.edu/courses/17-41-introduction-to-international-relations-spring-2023/) |
 
 # Code of conduct
 

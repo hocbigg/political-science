@@ -1,43 +1,39 @@
 # Projects
 
-This page is a curated collection of well-written, step-by-step guides for learning Political Science through hands-on, project-based practice.
+This page is a curated directory of step-by-step guides, methodological walkthroughs, and practical frameworks for learning Political Science through hands-on research and analytical writing.
 
-> _What I cannot create, I do not understand — Richard Feynman._
+By actively producing the core artifacts of the discipline—such as normative essays, comparative case studies, policy memos, survey instruments, and foreign policy briefings—learners develop rigorous analytical and methodological capabilities alongside their theoretical study.
 
-These projects are meant to support learning throughout the curriculum, not only at the end.  
-By building, writing, creating, or reconstructing real artifacts in the field, learners develop practical understanding alongside theoretical study.
+- [Political Theory & Normative Argumentation](#political-theory--normative-argumentation)
+- [Qualitative Inquiry, Case Studies & Process Tracing](#qualitative-inquiry-case-studies--process-tracing)
+- [Policy Analysis, Briefs & Strategic Memos](#policy-analysis-briefs--strategic-memos)
+- [Public Opinion, Polling & Survey Design](#public-opinion-polling--survey-design)
+- [Diplomacy, International Affairs & Security Briefings](#diplomacy-international-affairs--security-briefings)
 
-## Tutorials
+## Political Theory & Normative Argumentation
 
-- [Theory](#write-your-own-theory)
-- [Model](#build-your-own-model)
-- [Case Study](#conduct-your-own-case-study)
-- [Comparative Analysis](#perform-your-own-comparative-analysis)
-- [Policy Proposal](#write-your-own-policy-proposal)
-- [Argument](#construct-your-own-argument)
+- [Writing Political Theory Papers: Guide to Textual Interpretation and Conceptual Analysis](https://depts.washington.edu/pswrite/Handouts/WritingPoliticalTheoryPapers.pdf) (University of Washington Political Science Writing Center)
+- [Constructing Rigorous, Contestable Thesis Statements in Political Science](https://depts.washington.edu/pswrite/Handouts/ThesisStatements.pdf) (University of Washington Political Science Writing Center)
+- [Writing Scholarly Book Reviews and Critical Theoretical Evaluations](https://depts.washington.edu/pswrite/Handouts/BookReviews.pdf) (University of Washington Political Science Writing Center)
 
-### Write your own theory
+## Qualitative Inquiry, Case Studies & Process Tracing
 
-- [Writing Political Theory Papers](https://depts.washington.edu/pswrite/Handouts/WritingPoliticalTheoryPapers.pdf) (PDF guide)
-- [How to Write Term Papers and Essays in Political Theory](https://www.uni-bamberg.de/fileadmin/poltheorie/Infos_allgemein/2022_Leitfaden_Hausarbeiten_Essays_PT_EN.pdf) (Step-by-step PDF)
+- [Process-Tracing Research Designs: A Practical Methodological Guide and Checklist](https://ink.library.smu.edu.sg/soss_research/2591/) (Ricks & Liu, PS: Political Science & Politics)
+- [Designing Comparative Case Studies: Method of Difference and Agreement](https://depts.washington.edu/pswrite/Handouts/CompareContrastPaper.pdf) (University of Washington Political Science Writing Center)
+- [Developing and Structuring an Empirical Research Proposal](https://depts.washington.edu/pswrite/Handouts/HowtoWriteResearchPr.pdf) (University of Washington Political Science Writing Center)
 
-### Build your own model
+## Policy Analysis, Briefs & Strategic Memos
 
-- [Build Your Political Platform](https://newseumed.org/tools/lesson-plan/build-your-political-platform) (Interactive lesson guide)
+- [Policy Memo Writing Guide, Best Practices, and Real-World Example Database](https://policymemos.hks.harvard.edu/) (Harvard Kennedy School)
+- [How to Write an Actionable Policy Brief: A Step-by-Step Toolkit for Researchers](https://idrc-crdi.ca/en/funding/resources-idrc-grantees/how-write-policy-brief) (International Development Research Centre)
+- [Guidelines for Drafting Policy White Papers and Legal-Institutional Analysis](https://law.stanford.edu/wp-content/uploads/2015/04/White-Papers-Guidelines.pdf) (Stanford Law School)
 
-### Conduct your own case study
+## Public Opinion, Polling & Survey Design
 
-- [Writing a Case Study - Organizing Your Social Sciences Research Assignments](https://libguides.usc.edu/writingguide/assignments/casestudy) (Step-by-step guide)
+- [Guide to Survey Research Methods, Questionnaire Design, and Panel Sampling](https://www.pewresearch.org/methods/u-s-surveys/) (Pew Research Center)
+- [Methods 101: Understanding Random Sampling, Question Wording, and Mode Effects](https://www.pewresearch.org/methods/) (Pew Research Center)
 
-### Perform your own comparative analysis
+## Diplomacy, International Affairs & Security Briefings
 
-- [Tutoring Guide for Papers in Comparative Politics](https://cuwebstoragelibrary.blob.core.windows.net/documents-prod/docs/default-source/media/files/pdf/writing-center/tutor/comppoli.pdf?hash=40415141DD4B6842B214AE5CBF461692D1C48E3D&la=en) (PDF tutorial)
-
-### Write your own policy proposal
-
-- [Tips for Writing Policy Papers](https://law.stanford.edu/wp-content/uploads/2015/04/White-Papers-Guidelines.pdf) (Workshop-style PDF)
-- [How to Write a Policy Brief](https://idrc-crdi.ca/en/funding/resources-idrc-grantees/how-write-policy-brief) (Step-by-step guide)
-
-### Construct your own argument
-
-- [Writing in Political Science](https://twp.duke.edu/sites/twp.duke.edu/files/file-attachments/poli-sci.original.pdf) (PDF guide)
+- [Causal Variable Mapping and Theoretical Framing in International Relations](https://depts.washington.edu/pswrite/Handouts/TheoryandCausalVaria.pdf) (University of Washington Political Science Writing Center)
+- [Research Design and Analytical Writing in Global Politics](https://www.e-ir.info/) (E-International Relations)

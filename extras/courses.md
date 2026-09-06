@@ -1,42 +1,31 @@
 # Great Courses
 
-This is a list of high-quality courses that, for one reason or another, didn't make it into the curriculum.
-The most common reasons are that the course isn't available often enough,
-or that there was an alternative that fit better into the curriculum.
+This is a curated collection of standout university lecture series, full-length OpenCourseWare offerings, and high-production MOOCs that provide deep conceptual insight, empirical breadth, and rigorous mental models in Political Science.
 
-## Normative Theory & Philosophy
+- [Political Theory & Normative Foundations](#political-theory--normative-foundations)
+- [International Relations, Strategy & Global Governance](#international-relations-strategy--global-governance)
+- [Comparative Politics & Global Institutional Change](#comparative-politics--global-institutional-change)
+- [Public Policy & Decision-Making](#public-policy--decision-making)
 
-| Courses | Duration | Effort |
-| :-- | :--: | :--: |
-| [Justice](https://www.justiceharvard.org/) (Harvard University, Michael Sandel) | 12 weeks | 3-5 hours/week |
-| [Moral Foundations of Politics](https://www.coursera.org/learn/moral-politics) (Yale University, Ian Shapiro) | 8 weeks | 4-6 hours/week |
+## Political Theory & Normative Foundations
 
-## International Relations
+- [Justice (Harvard University / Michael Sandel)](https://justiceharvard.org/)
+- [Introduction to Political Philosophy (Open Yale Courses / Steven B. Smith)](https://oyc.yale.edu/political-science/plsc-114)
+- [The Moral Foundations of Politics (Coursera & Open Yale Courses / Ian Shapiro)](https://oyc.yale.edu/political-science/plsc-118)
 
-| Courses | Duration | Effort |
-| :-- | :--: | :--: |
-| [Global Diplomacy – Diplomacy in the Modern World](https://www.coursera.org/learn/global-diplomacy) (University of London) | 5 weeks | 3-4 hours/week |
+## International Relations, Strategy & Global Governance
 
-## Comparative Politics – Great Courses
+- [Global Diplomacy – Diplomacy in the Modern World (Coursera / SOAS University of London / J. Simon Rofe)](https://www.coursera.org/learn/global-diplomacy)
+- [American Foreign Policy: Past, Present, and Future (MIT OCW / Stephen Van Evera)](https://ocw.mit.edu/courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/)
+- [International Organizations Management (Coursera / University of Geneva / Gilbert Probst)](https://www.coursera.org/learn/international-organizations-management)
 
-This is a list of high-quality courses that, for one reason or another, didn't make it into the curriculum.
+## Comparative Politics & Global Institutional Change
 
-| Courses | Duration | Effort |
-| :-- | :--: | :--: |
-| [Power and Foreign Policy in International Relations](https://www.mooc-list.com/tags/international-relations) (Various IPSAMOOC on edX/Coursera) | Varies | Varies |
+- [Field Seminar in Comparative Politics (MIT OCW / Suzanne Berger & Lily Tsai)](https://ocw.mit.edu/courses/17-588-field-seminar-in-comparative-politics-fall-2013/)
+- [Power and Politics in Today's World (Yale University / Ian Shapiro)](https://online.yale.edu/courses/power-and-politics-todays-world)
+- [Making Government Work in Hard Places (Princeton University / Jennifer Widner)](https://online.princeton.edu/)
 
-## Public Policy – Great Courses
+## Public Policy & Decision-Making
 
-This is a list of high-quality courses that, for one reason or another, didn't make it into the curriculum.
-
-| Courses | Duration | Effort |
-| :-- | :--: | :--: |
-| [Using Public Policy for Social Change](https://www.coursera.org/learn/using-public-policy-for-social-change) (University of Michigan) | 4 weeks | 3-5 hours/week |
-
-## Online Learning - Great Courses
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | 4 weeks | 2 hours/week
-[Mindshift](https://www.coursera.org/learn/mindshift) | 4 weeks | 2 hours/week
-[Powersearching with Google](https://www.edx.org/learn/google-power-searching/google-power-searching-with-google) | 3 weeks | 4-6 hours/week
+- [Using Public Policy for Social Change (Coursera / University of Michigan / Matthew Davis)](https://www.coursera.org/learn/using-public-policy-for-social-change)
+- [Game Theory for Political Decision-Making (MIT OCW / Horacio Larreguy)](https://ocw.mit.edu/courses/17-810-game-theory-spring-2021/)

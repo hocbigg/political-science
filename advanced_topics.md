@@ -1,51 +1,58 @@
 # Advanced Topics
 
-- [Political Behavior & Identity](#political-behavior--identity)
-- [International Relations & Global Politics](#international-relations--global-politics)
-- [Political Economy & Development](#political-economy--development)
-- [Public Policy, Administration & Governance](#public-policy-administration--governance)
+- [Political Behavior, Psychology & Identity](#political-behavior-psychology--identity) — Explores how psychological mechanisms, social identities, information environments, and polarization shape citizen behavior and public opinion.
+- [International Relations & Security Studies](#international-relations--security-studies) — Investigates the causes of interstate conflict, crisis bargaining, nuclear deterrence, international regimes, and foreign policy formulation.
+- [Comparative Political Economy & Development](#comparative-political-economy--development) — Examines how political institutions drive economic growth, inequality, regime transitions, authoritarian survival, and resource distribution.
+- [Public Policy, Bureaucracy & Governance](#public-policy-bureaucracy--governance) — Analyzes agenda-setting, administrative decision-making, regulatory politics, and empirical policy evaluation.
+- [Advanced Political Methodology & Formal Theory](#advanced-political-methodology--formal-theory) — Develops rigorous causal inference designs, experimental methodologies, game-theoretic models, and computational text analysis toolkits.
 
-You do **not** need to study all of them. You can study **one track** deeply, **several tracks** at a lighter level, or even return later to explore more. There is no required order among the specialization tracks—choose based on your curiosity.
+You do **not** need to study all of them. You can study **one track** deeply, **several tracks** at a lighter level, or return later to explore more. There is no required order among the specialization tracks—choose based on your academic and research goals.
 
-The specialization tracks are:
+## Political Behavior, Psychology & Identity
 
-- **Political Behavior & Identity**: how ordinary people think, vote, and form political identities.
-- **International Relations & Global Politics**: war, peace, diplomacy, global power, and relations between countries.
-- **Political Economy & Development**: money, markets, inequality, why some countries grow rich while others stay poor. 
-- **Public Policy, Administration & Governance**: how governments actually make and implement decisions, laws, regulations, and city policies
-
-## Political Behavior & Identity
-
-| Subject | Book | Online Course |
+| Topic | Why Study | Resources |
 | --- | --- | --- |
-| Political Behavior | [Dalton – Citizen Politics (Archive.org)](https://archive.org/details/citizenpoliticsg0000dalt) | — |
-| Nationalism | [Anderson – Imagined Communities](https://www.versobooks.com/products/112-imagined-communities) | — |
-| Identity Politics | [IEP – Identity & Politics entries](https://iep.utm.edu/category/value/political/) | — |
+| Partisanship, Polarization & Social Identity | Examines how partisan affiliations evolve into entrenched social identities, driving affective polarization, sorted sorting, and democratic erosion. | Lilliana Mason, *Uncivil Agreement: How Politics Became Our Identity* (University of Chicago Press)<br>- Shanto Iyengar, Gaurav Sood, and Yphtach Lelkes, "Affect, Not Ideology: A Social Identity Perspective on Polarization" (*Public Opinion Quarterly*) |
+| Voter Turnout & Political Participation | Investigates the individual, structural, and social network determinants of electoral mobilization and non-voting. | Angus Campbell, Philip E. Converse, Warren E. Miller, and Donald E. Stokes, *The American Voter* (University of Chicago Press)<br>- Alan S. Gerber and Donald P. Green, *Get Out the Vote: How to Increase Voter Turnout* (Brookings Institution Press) |
+| Political Cognition & Motivated Reasoning | Explores how cognitive heuristics, emotional processing, and confirmation biases systematically distort political learning and policy preferences. | Milton Lodge and Charles S. Taber, *The Rationalizing Voter* (Cambridge University Press)<br>- John R. Zaller, *The Nature and Origins of Mass Opinion* (Cambridge University Press) |
+| Nationalism, Ethnicity & Group Conflict | Analyzes how ethnic and national identities are constructed, politicized, and mobilized into collective action or violent intergroup conflict. | Benedict Anderson, *Imagined Communities: Reflections on the Origin and Spread of Nationalism* (Verso)<br>- Donald L. Horowitz, *Ethnic Groups in Conflict* (University of California Press) |
+| Media Effects, Misinformation & Digital Politics | Investigates how fragmented media environments, algorithmic curation, and disinformation alter political persuasion and democratic accountability. | Markus Prior, *Post-Broadcast Democracy: How Media Choice Increases Inequality in Political Involvement and Polarizes Elections* (Cambridge University Press)<br>- Andrew M. Guess, Brendan Nyhan, and Jason Reifler, "Selective Exposure to Misinformation: Evidence from the 2016 U.S. Presidential Campaign" |
 
-## International Relations & Global Politics
+## International Relations & Security Studies
 
-| Subject | Book | Online Course |
+| Topic | Why Study | Resources |
 | --- | --- | --- |
-| International Relations (Intro) | — | [MIT OCW – Introduction to International Relations](https://ocw.mit.edu/courses/17-40-introduction-to-international-relations-fall-2017/) (closest match; search for full IR intro) |
-| IR Theory (Advanced) | [Waltz – Theory of International Politics](https://www.waveland.com/browse.php?t=380) | — |
-| Security Studies | [Freedman – Evolution of Nuclear Strategy](https://link.springer.com/book/9781137573490) | — |
-| International Law | [Shaw – International Law (Archive.org)](https://archive.org/details/internationallaw0000shaw) | — |
-| Foreign Policy Analysis | [Hudson – Foreign Policy Analysis](https://global.oup.com/academic/product/foreign-policy-analysis-9780197518908) | — |
-| Global Ethics | [Global Justice (Archive.org)](https://archive.org/details/globaljustice0000unse) | — |
+| Advanced International Relations Theory | Explores foundational systemic paradigms—Structural Realism, Neoliberal Institutionalism, and Constructivism—to explain global order and state behavior. | Kenneth N. Waltz, *Theory of International Politics* (Waveland Press)<br>- Robert O. Keohane, *After Hegemony: Cooperation and Discord in the World Political Economy* (Princeton University Press)<br>- Alexander Wendt, *Social Theory of International Politics* (Cambridge University Press) |
+| Causes of War, Bargaining & Civil Conflict | Analyzes game-theoretic bargaining breakdowns, information asymmetries, and commitment problems that lead to interstate and civil wars. | James D. Fearon, "Rationalist Explanations for War" (*International Organization*)<br>- Thomas C. Schelling, *The Strategy of Conflict* (Harvard University Press)<br>- Stathis N. Kalyvas, *The Logic of Violence in Civil War* (Cambridge University Press) |
+| Nuclear Strategy & Deterrence | Examines the strategic logic of nuclear deterrence, second-strike capabilities, escalation control, and arms control diplomacy. | Lawrence Freedman, *The Evolution of Nuclear Strategy* (Palgrave Macmillan)<br>- Robert Jervis, *The Meaning of the Nuclear Revolution: Statecraft and the Prospect of Armageddon* (Cornell University Press) |
+| International Institutions & Global Governance | Evaluates the mechanisms through which international organizations, legal regimes, and norms constrain sovereign state power and facilitate cooperation. | Michael N. Barnett and Martha Finnemore, *Rules for the World: International Organizations in Global Politics* (Cornell University Press)<br>- Beth A. Simmons, *Mobilizing for Human Rights: International Law in Domestic Politics* (Cambridge University Press) |
+| Foreign Policy Analysis & Decision-Making | Deconstructs national security decisions by assessing psychological biases, small-group dynamics, and bureaucratic politics within executive branches. | Graham Allison and Philip Zelikow, *Essence of Decision: Explaining the Cuban Missile Crisis* (Longman)<br>- Valerie M. Hudson and Benjamin S. Day, *Foreign Policy Analysis: Classic and Contemporary Theory* (Rowman & Littlefield)<br>- [MIT OCW – American Foreign Policy: Past, Present, and Future](https://ocw.mit.edu/courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/) |
 
-## Political Economy & Development
+## Comparative Political Economy & Development
 
-| Subject | Book | Online Course |
+| Topic | Why Study | Resources |
 | --- | --- | --- |
-| Global Political Economy | [Global Political Economy (Oxford)](https://global.oup.com/academic/product/global-political-economy-9780198820642) | — |
-| Development & State Capacity | [Why Nations Fail](https://whynationsfail.com/) (official site with excerpts) | — |
-| Authoritarian Politics | [The Politics of Authoritarian Rule](https://www.cambridge.org/core/books/politics-of-authoritarian-rule/) (limited preview) | — |
+| Institutions, State Capacity & Long-Run Growth | Examines how historical state-building, coercive capacity, and property rights institutions determine long-run developmental trajectories. | Daron Acemoglu and James A. Robinson, *Why Nations Fail: The Origins of Power, Prosperity, and Poverty* (Crown Business)<br>- Charles Tilly, *Coercion, Capital, and European States, AD 990–1992* (Blackwell)<br>- Francis Fukuyama, *The Origins of Political Order* (Farrar, Straus and Giroux) |
+| Varieties of Capitalism & Welfare States | Compares the institutional architectures of advanced capitalist economies and the political coalitions that sustain distinct welfare regimes. | Peter A. Hall and David Soskice (eds.), *Varieties of Capitalism: The Institutional Foundations of Comparative Advantage* (Oxford University Press)<br>- Gøsta Esping-Andersen, *The Three Worlds of Welfare Capitalism* (Princeton University Press) |
+| Authoritarian Politics & Autocratic Consolidation | Studies how non-democratic regimes maintain stability through elite power-sharing, institutional co-optation, censorship, and targeted repression. | Milan W. Svolik, *The Politics of Authoritarian Rule* (Cambridge University Press)<br>- Jennifer Gandhi, *Political Institutions under Dictatorship* (Cambridge University Press) |
+| Inequality, Redistribution & Regime Change | Models the strategic interactions between economic elites and disenfranchised citizens that drive democratic transitions and fiscal redistribution. | Daron Acemoglu and James A. Robinson, *Economic Origins of Dictatorship and Democracy* (Cambridge University Press)<br>- Kenneth Scheve and David Stasavage, *Taxing the Rich: A History of Fiscal Fairness in the United States and Europe* (Princeton University Press) |
+| The Resource Curse & Rentier States | Investigates why abundance in petroleum and minerals frequently correlates with authoritarian stability, corruption, and economic vulnerability. | Michael L. Ross, *The Oil Curse: How Petroleum Wealth Shapes the Development of Nations* (Princeton University Press)<br>- Terry Lynn Karl, *The Paradox of Plenty: Oil Booms and Petro-States* (University of California Press) |
 
-## Public Policy, Administration & Governance
+## Public Policy, Bureaucracy & Governance
 
-| Subject | Book | Online Course |
+| Topic | Why Study | Resources |
 | --- | --- | --- |
-| Public Policy Analysis | [Weimer & Vining – Policy Analysis](https://www.routledge.com/Policy-Analysis-Concepts-and-Practice/Weimer-Vining/p/book/9781138216518) | [LSE Public Policy Lectures (free)](https://www.lse.ac.uk/public-policy) (search for open lectures) |
-| Public Administration | [Public Administration: Concepts and Cases](https://www.cengage.com/c/public-administration-concepts-and-cases-9e-stillman/9780618999019) | — |
-| Regulatory Politics | [Wilson – Politics of Regulation](https://www.basicbooks.com/titles/james-q-wilson/politics-of-regulation/9780465061686/) | — |
-| Urban Governance | [Governing Cities](https://www.wiley.com/en-us/Governing+Cities-p-9781118567302) | — |
+| Policy Agenda-Setting & Punctuated Equilibrium | Explores how issues rise to political prominence through focusing events and policy windows, resulting in long institutional stasis broken by sudden shifts. | John W. Kingdon, *Agendas, Alternatives, and Public Policies* (Longman)<br>- Frank R. Baumgartner and Bryan D. Jones, *Agendas and Instability in American Politics* (University of Chicago Press) |
+| Bureaucracy & Street-Level Implementation | Analyzes administrative discretion, principal-agent dynamics, and how frontline civil servants translate statutory directives into real outcomes. | James Q. Wilson, *Bureaucracy: What Government Agencies Do and Why They Do It* (Basic Books)<br>- Michael Lipsky, *Street-Level Bureaucracy: Dilemmas of the Individual in Public Services* (Russell Sage Foundation) |
+| Policy Design & Cost-Benefit Analysis | Equips analysts with systematic tools for forecasting impacts, assessing market failures, valuing non-market goods, and evaluating trade-offs. | David L. Weimer and Aidan R. Vining, *Policy Analysis: Concepts and Practice* (Routledge)<br>- Anthony E. Boardman, David H. Greenberg, Aidan R. Vining, and David L. Weimer, *Cost-Benefit Analysis: Concepts and Practice* (Cambridge University Press) |
+| Regulatory Politics & Bureaucratic Autonomy | Investigates how regulatory bodies establish organizational autonomy, resist corporate capture, and navigate interest group pressures. | Daniel P. Carpenter, *The Forging of Bureaucratic Autonomy: Reputations, Networks, and Policy Innovation in Executive Agencies, 1862–1928* (Princeton University Press)<br>- George J. Stigler, "The Theory of Economic Regulation" (*The Bell Journal of Economics and Management Science*) |
+| Urban Politics & Local Governance | Examines municipal coalition formation, public goods distribution, spatial segregation, and fiscal constraints in metropolitan administration. | Clarence N. Stone, *Regime Politics: Governing Atlanta, 1946–1988* (University Press of Kansas)<br>- Paul E. Peterson, *City Limits* (University of Chicago Press) |
+
+## Advanced Political Methodology & Formal Theory
+
+| Topic | Why Study | Resources |
+| --- | --- | --- |
+| Causal Inference & Observational Research Design | Teaches identification strategies—instrumental variables, difference-in-differences, and regression discontinuity—to estimate causal effects from non-experimental data. | Joshua D. Angrist and Jörn-Steffen Pischke, *Mostly Harmless Econometrics: An Empiricist's Companion* (Princeton University Press)<br>- Stephen L. Morgan and Christopher Winship, *Counterfactuals and Causal Inference: Methods and Principles for Social Research* (Cambridge University Press) |
+| Experimental Methods in Political Science | Examines field, survey, and lab experimental protocols designed to test micro-foundational theories and measure policy impacts with minimal confounding. | Alan S. Gerber and Donald P. Green, *Field Experiments: Design, Analysis, and Interpretation* (W. W. Norton)<br>- James N. Druckman, Donald P. Green, James H. Kuklinski, and Arthur Lupia (eds.), *Cambridge Handbook of Experimental Political Science* (Cambridge University Press) |
+| Formal Political Theory & Game Theory | Provides mathematical tools to model strategic interactions across electoral competition, legislative bargaining, and crisis diplomacy. | Nolan McCarty and Adam Meirowitz, *Political Game Theory: An Introduction* (Cambridge University Press)<br>- [MIT OCW – Game Theory](https://ocw.mit.edu/courses/17-810-game-theory-spring-2021/) |
+| Computational Social Science & Text-as-Data | Introduces automated text processing, sentiment analysis, topic modeling, and digital trace data collection for large-scale political inquiry. | Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart, *Text as Data: A New Framework for Machine Learning and the Social Sciences* (Princeton University Press)<br>- [Bit by Bit: Social Research in the Digital Age (Salganik)](https://www.bitbybitbook.com/) |
